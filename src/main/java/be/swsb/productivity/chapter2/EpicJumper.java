@@ -4,6 +4,6 @@ public class EpicJumper implements Jumper {
 
     @Override
     public String jump() {
-        return "pump epically ";
+        return "jump epically ";
     }
 }

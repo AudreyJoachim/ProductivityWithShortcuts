@@ -16,6 +16,10 @@ public class Chapter2 {
 
     private String jumpUsingStrategy() { return JumperStrategyFactory.epicJumperStrategy().jump(); }
 
+    /* privet String kakdilla(){
+        "horocho";
+    } */
+
     private String camel() {
         return "the lazy camel";
     }
